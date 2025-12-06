@@ -105,5 +105,5 @@ Thumbs.db
 # ===========================
 # self-added
 # ===========================
-app/config.py
+app/core/config.py
 
